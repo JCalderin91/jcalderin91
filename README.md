@@ -3,7 +3,6 @@
 Soy un frontend developer de Venezuela 
 </h3>
 
-<br/>
 
 - 🔭 Actualmente trabajo en  [Calaverita.tech](https://calaverita.tech/)
 
@@ -14,10 +13,8 @@ Soy un frontend developer de Venezuela
 - 📫 Puedes contactarme por mi correo **jesuscalderin91@gmail.com**
 
 
-<br/>
 <h3 align="left">Lenguages y Herramientas que uso:</h3>
-<br/>
-<p align="left"> 
+<p align="center"> 
 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 
@@ -44,14 +41,11 @@ Soy un frontend developer de Venezuela
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
 </p>
-<br/>
-<br/>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcalderin91&layout=compact&show_icons=true&locale=es&theme=slateorange" alt="jcalderin91" /></div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcalderin91&layout=compact&show_icons=true&locale=es&theme=slateorange" alt="jcalderin91" /></p>
 
-<br/>
+
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=jcalderin91&show_icons=true&locale=es&theme=slateorange" alt="jcalderin91" /></div>
-<br/>
 
 
 
