@@ -17,7 +17,7 @@ Soy un frontend developer de Venezuela
 <br/>
 <h3 align="left">Lenguages y Herramientas que uso:</h3>
 <br/>
-<p> 
+<p align="left"> 
 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 
