@@ -1,5 +1,5 @@
 <h1>Hola 👋, Soy Jesús Calderin</h1>
-<h3 style="margin-bottom: 15px;">Soy un frontend developer de Venezuela</h3>
+<h3 style="margin-bottom: 15px;">Soy un frontend developer</h3>
 
 - 🌱 Aprendiendo **ReactJS**
 
@@ -22,7 +22,7 @@
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
   </a>
   <a href="https://es.reactjs.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg " alt="reactjs" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" height="40"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
