@@ -1,9 +1,8 @@
-<h1>Hola 👋, Soy Jesús Calderin</h1>
-<h3 style="margin-bottom: 15px;">Soy un frontend developer</h3>
+<h1>Hola 👋 Soy Jesús Calderin</h1>
 
-- 🌱 Aprendiendo **ReactJS**
+<h3 style="margin-bottom: 15px;">Soy un desarrollador web especializado en el área de Frontend, con sólido dominio de HTML, CSS y JavaScript. He trabajado con frameworks de CSS como Bootstrap y Tailwind, así como con frameworks de JavaScript como Vue y React, además de tener experiencia básica en Angular. Mi enfoque en la atención al detalle me permite replicar diseños con precisión, garantizando interfaces de usuario atractivas y funcionales. 🧑🏻‍💻</h3>
 
-- 💬 Podemos hablar de **JavaScript, VueJs, CSS**
+- 💬 Podemos hablar de **JavaScript, VueJs, CSS, ReactJs, Typescript, Cypress**
 
 - 🖥 Mi portafolio lo puedes encontrar en [jcalderin91](https://jcalderin91.notion.site/Jes-s-Calderin-08cd22b1927046eaa81ae34bd4a35ed9)
 
@@ -52,7 +51,11 @@
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
 </p>
 
 <p style="margin-top: 30px"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcalderin91&layout=compact&show_icons=true&locale=es&theme=slateorange" alt="jcalderin91" /></p>
